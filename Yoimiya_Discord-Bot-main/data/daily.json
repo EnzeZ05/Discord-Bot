@@ -1,0 +1,54 @@
+{
+    "senkam" : {
+        "weapons" : {
+            "mondstadt" : "Decarabian",
+            "liyue" : "Guyun",
+            "inazuma" : "Branch of a Distant Sea"
+        },
+        "books" : {
+            "mondstadt" : "Freedom",
+            "liyue" : "Prosperity",
+            "inazuma" : "Transience"
+        },
+        "image" : "./images/daily/senin.png"
+    },
+    "seljum" : {
+        "weapons" : {
+            "mondstadt" : "Boreal Wolf",
+            "liyue" : "Mist Veiled Elixir",
+            "inazuma" : "Narukami's"
+        },
+        "books" : {
+            "mondstadt" : "Resistance",
+            "liyue" : "Diligence",
+            "inazuma" : "Elegance"
+        },
+        "image" : "./images/daily/selasa.png"
+    },
+    "rasab" : {
+        "weapons" : {
+            "mondstadt" : "Dandelion Gladiator",
+            "liyue" : "Aerosiderite",
+            "inazuma" : "Mask"
+        },
+        "books" : {
+            "mondstadt" : "Ballad",
+            "liyue" : "Gold",
+            "inazuma" : "Light"
+        },
+        "image" : "./images/daily/rabu.png"
+    },
+    "minggu" : {
+        "weapons" : {
+            "mondstadt" : "Everything",
+            "liyue" : "Everything",
+            "inazuma" : "Everything"
+        },
+        "books" : {
+            "mondstadt" : "Everything",
+            "liyue" : "Everything",
+            "inazuma" : "Everything"
+        },
+        "image" : "None"
+    }
+}
